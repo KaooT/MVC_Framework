@@ -1,5 +1,5 @@
 <?php
+	require_once '../app/bootstrap.php';
 
-	echo 'KneoK-MVC';
-
-?>
+	// Initialize Core lib
+	$init = new Core;
